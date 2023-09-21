@@ -1,7 +1,7 @@
 .topbar{
     width: 100%;
     height: 60px;
-    background-color: var(--primary-color);
+    background-color: var(--secondary-color);
     position: sticky;
     top: 0;
     z-index: 999;
@@ -16,7 +16,7 @@
 .logo{
     font-weight: bold;
     font-size: 30px;
-    color: rgb(255, 185, 151);
+    color: var(--accent-color-light);
     cursor: pointer;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.686);
 }

@@ -1,18 +1,18 @@
 :root{
-    --primary-color: hsl(4, 84%, 35%);
-    --primary-color-light: hsl(4, 83%, 51%);
-    --primary-color-dark: hsl(4, 84%, 19%);
-    --secondary-color: hsl(150, 100%, 12%);
-    --secondary-color-light: hsl(154, 34%, 59%);
-    --secondary-color-dark: hsl(154, 89%, 4%);
-    --accent-color: hsl(32, 93%, 58%);
-    --accent-color-light: hsl(32, 100%, 92%);
-    --accent-color-dark: hsl(32, 92%, 40%);
+    --primary-color: hsl(238, 98%, 51%);
+    --primary-color-light: hsl(238, 98%, 61%);
+    --primary-color-dark: hsl(238, 98%, 21%);
+    --secondary-color: hsl(356, 98%, 45%);
+    --secondary-color-light: hsl(356, 98%, 58%);
+    --secondary-color-dark: hsl(356, 98%, 30%);
+    --accent-color: hsl(59, 100%, 50%);
+    --accent-color-light: hsl(59, 100%, 70%);
+    --accent-color-dark: hsl(59, 100%, 40%);
     --gray-100:  hsl(0, 0%, 100%);
-    --gray-300:  hsl(155, 28%, 88%);
-    --gray-500:  hsl(157, 7%, 46%);
-    --gray-700:  hsl(154, 18%, 16%);
-    --gray-900:  hsl(158, 85%, 3%);
+    --gray-300:  hsl(233, 28%, 88%);
+    --gray-500:  hsl(238, 13%, 49%);
+    --gray-700:  hsl(236, 31%, 10%);
+    --gray-900:  hsl(240, 89%, 4%);
     --black-light:  hsl(0, 0%, 10%);
     --black-dark:  hsl(0, 0%, 0%);
   
