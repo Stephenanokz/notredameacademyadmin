@@ -12,7 +12,7 @@ const Topbar = () => {
         </div>
         <div className="topRight">
           <img
-            src="https://png.pngtree.com/png-clipart/20230105/original/pngtree-school-logo-design-png-image_8873860.png"
+            src="img/logo.png"
             alt=""
             className="topAvatar"
           />
